@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155802016351",
+    "project_id": "streetview-7f2e1",
+    "storage_bucket": "streetview-7f2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155802016351:android:72cdb5651353e9daa019ea",
+        "android_client_info": {
+          "package_name": "com.example.street_view"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckQolOO25Lj769bsuVyNUqdP-e8qOUMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
