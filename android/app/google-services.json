@@ -12,7 +12,20 @@
           "package_name": "com.example.street_view"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "155802016351-2bj8suktqps592ocsiktnkfktaq0ncki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.street_view",
+            "certificate_hash": "7cdf4930852609b46627cd4781770919c2475ef3"
+          }
+        },
+        {
+          "client_id": "155802016351-3bb5qc1livob0b3rv6uc17t4ol0ajvfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAckQolOO25Lj769bsuVyNUqdP-e8qOUMk"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155802016351-3bb5qc1livob0b3rv6uc17t4ol0ajvfh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155802016351-ks1bmh6op2kj8ok211hr0m15hr868hgm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.streetView"
+              }
+            }
+          ]
         }
       }
     }
